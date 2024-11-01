@@ -1,15 +1,15 @@
 body {
   background: #000;
-  color: #fff;
+  color: white;
   padding: 25px;
   font-family: sans-serif;
+  background-color: black;
 }
 table, th, td {
-  border: 1px solid white;
+  border: 3px solid blue;
 }
 th, td {
-  padding: 8px;
-}
-th {
+  padding: 3px;
   text-align: center;
 }
+
