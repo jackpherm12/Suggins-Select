@@ -18,3 +18,21 @@ th {
 a {
   color: red;
 }
+.wins {
+  color: lightgreen;
+}
+.losses {
+  color: red;
+}
+.th-home{
+  color: orange;
+}
+.archive-win-th{
+  color: red;
+}
+.archive-win-tb{
+  color: gold;
+}
+.archive-loss-tb{
+  color: pink;
+}
