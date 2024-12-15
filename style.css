@@ -1,12 +1,12 @@
 body {
   background: #000;
-  color: white;
+  color: lightpink;
   padding: 25px;
   font-family: sans-serif;
-  background-color: black;
+  background-color: darkblue;
 }
 table, th, td {
-  border: 3px solid blue;
+  border: 3px solid lightblue;
 }
 th, td {
   padding: 3px;
@@ -17,6 +17,12 @@ th {
 }
 a {
   color: red;
+}
+#NFL{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .wins {
   color: lightgreen;
@@ -35,4 +41,26 @@ a {
 }
 .archive-loss-tb{
   color: pink;
+}
+h3, h2{
+  color: white;
+  background-color: darkorange;
+  padding: 3px;
+  border-radius: 4px;
+  text-align: center;
+}
+.matchup-p{
+  color: lightpink;
+  background-color: darkblue;
+  padding: 3px;
+  border-radius: 4px;
+  text-align: left;
+}
+h1{
+   color: yellow;
+  background-color: red;
+  padding: 8px;
+  border-radius: 7px;
+  text-align: center;
+  font-size: 30px
 }
